@@ -9,14 +9,16 @@ REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, e
 ### Princípios REST Fundamentais
 
 1. **Interface Uniforme:** Todas as solicitações para o mesmo recurso devem ser iguais, independentemente da origem da solicitação. Isso garante consistência e simplicidade na comunicação.
-   
-2. **Stateless (Sem Estado):** Cada requisição enviada ao servidor deve conter todas as informações necessárias para ser entendida, sem depender de interações anteriores. Isso promove escalabilidade e confiabilidade no sistema.
-   
-3. **Cacheável:** As respostas do servidor devem indicar se podem ou não serem armazenadas em cache. Isso melhora a eficiência e a velocidade das interações cliente-servidor.
-   
-4. **Sistema em Camadas:** A comunicação entre cliente e servidor ocorre de maneira que nem o cliente nem o servidor saibam se estão se comunicando diretamente entre si ou através de intermediários. Isso proporciona flexibilidade e escalabilidade na arquitetura.
 
-5. **Código sob Demanda (Opcional):** O servidor pode fornecer código executável ao cliente para ampliar sua funcionalidade. Esse recurso é opcional e adiciona flexibilidade à API.
+2. **Desacoplamento do Cliente-Servidor:** O cliente e o servidor devem funcionar de forma independente, permitindo que cada um evolua sem depender diretamente do outro. Isso promove a flexibilidade e a escalabilidade da arquitetura.
+
+3. **Stateless (Sem Estado):** Cada requisição enviada ao servidor deve conter todas as informações necessárias para ser entendida, sem depender de interações anteriores. Isso promove escalabilidade e confiabilidade no sistema.
+
+4. **Cacheável:** As respostas do servidor devem indicar se podem ou não serem armazenadas em cache. Isso melhora a eficiência e a velocidade das interações cliente-servidor.
+
+5. **Sistema em Camadas:** A comunicação entre cliente e servidor ocorre de maneira que nem o cliente nem o servidor saibam se estão se comunicando diretamente entre si ou através de intermediários. Isso proporciona flexibilidade e escalabilidade na arquitetura.
+
+6. **Código sob Demanda (Opcional):** O servidor pode fornecer código executável ao cliente para ampliar sua funcionalidade. Esse recurso é opcional e adiciona flexibilidade à API.
 
 ## HTTP verbs
 
