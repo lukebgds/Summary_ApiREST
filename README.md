@@ -108,4 +108,5 @@ Os códigos de status HTTP são extensíveis, e aplicações HTTP não são obri
 Códigos de status HTTP são essenciais para a comunicação entre clientes e servidores, ajudando a identificar e resolver problemas durante transações HTTP.
 
 ---
-### **Autor do resumo:** Lucas Benício - 01506393
+
+#### **Autor do resumo:** Lucas Benício - 01506393
