@@ -1,6 +1,6 @@
 # Api REST e RESTFul
 
-[![Licença](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://github.com/lukebgds/resumoApiREST/blob/main/LICENSE)
+[![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoApiREST/blob/main/LICENSE)
 
 As APIs REST são sistemas que seguem os princípios de arquitetura da REST, permitindo a interação entre sistemas web por meio de interfaces. Essas APIs oferecem uma abordagem uniforme e eficaz para acessar e manipular recursos através de métodos padronizados do protocolo HTTP.
 
