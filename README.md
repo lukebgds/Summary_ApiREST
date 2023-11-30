@@ -111,6 +111,6 @@ Códigos de status HTTP são essenciais para a comunicação entre clientes e se
 
 ### Autor do resumo:
 
-- **Lucas Benício Gusmão da Silva:** - 01506393 
+- **Lucas Benício Gusmão da Silva** - 01506393 
 - **Turma:** 4MB
 - **Horário:** Manhã
