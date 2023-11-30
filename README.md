@@ -2,11 +2,11 @@
 
 [![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoApiREST/blob/main/LICENSE)
 
-As APIs REST são sistemas que seguem os princípios de arquitetura da REST, permitindo a interação entre sistemas web por meio de interfaces. Essas APIs oferecem uma abordagem uniforme e eficaz para acessar e manipular recursos através de métodos padronizados do protocolo HTTP.
+As APIs são sistemas que seguem os princípios de arquitetura da REST, permitindo a interação entre sistemas web por meio de interfaces. Essas APIs oferecem uma abordagem uniforme e eficaz para acessar e manipular recursos através de métodos padronizados do protocolo HTTP. É dividida em dois tipos, APIs REST e APIs RESTful.
 
 ## Diferenças entre REST e RESTFul
 
-REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, enquanto uma API RESTful adere estritamente a esses princípios. Enquanto a REST estabelece diretrizes, a RESTful é uma implementação concreta dessas diretrizes, assegurando a conformidade completa.
+REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, uma API RESTful é uma implementação concreta dessas diretrizes, assegurando a conformidade completa, já as APIs REST pode ou não seguir rigorosamente a todos os princípios REST.
 
 ### Princípios REST Fundamentais
 
