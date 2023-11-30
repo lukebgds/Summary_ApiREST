@@ -6,7 +6,7 @@ As APIs são sistemas que seguem os princípios de arquitetura da REST, permitin
 
 ## Diferenças entre REST e RESTFul
 
-REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, uma API RESTful é uma implementação concreta dessas diretrizes, assegurando a conformidade completa, já as APIs REST pode ou não seguir rigorosamente a todos os princípios REST.
+REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, uma API RESTful implementa de forma concreta essas diretrizes, assegurando a conformidade completa, já uma API REST pode ou não seguir rigorosamente a todos os princípios REST.
 
 ### Princípios REST Fundamentais
 
