@@ -56,11 +56,11 @@ O elemento Status-Code em uma resposta do servidor é um inteiro de 3 dígitos. 
 
 Os códigos de status HTTP são extensíveis, e aplicações HTTP não são obrigadas a compreender o significado de todos os códigos de status registrados. Abaixo está uma lista detalhada desses códigos de status:
 
-1. **1xx: Informativo**
+1. -- **1xx: Informativo**
    - `100 Continue`: Apenas uma parte do pedido foi recebida e o cliente deve continuar com o pedido.
    - `101 Switching Protocols`: O servidor está mudando de protocolo.
 
-2. **2xx: Sucesso**
+2. -- **2xx: Sucesso**
    - `200 OK`: O pedido foi bem-sucedido.
    - `201 Created`: O pedido está completo e um novo recurso foi criado.
    - `202 Accepted`: O pedido foi aceito para processamento, mas não concluído.
@@ -69,7 +69,7 @@ Os códigos de status HTTP são extensíveis, e aplicações HTTP não são obri
    - `205 Reset Content`: O navegador deve limpar o formulário usado para essa transação.
    - `206 Partial Content`: O servidor está retornando dados parciais do tamanho solicitado.
 
-3. **3xx: Redirecionamento**
+3. -- **3xx: Redirecionamento**
    - `300 Multiple Choices`: O usuário pode selecionar um link de uma lista.
    - `301 Moved Permanently`: A página foi movida permanentemente para um novo URL.
    - `302 Found`: A página foi movida temporariamente para um novo URL.
@@ -79,7 +79,7 @@ Os códigos de status HTTP são extensíveis, e aplicações HTTP não são obri
    - `306 Unused`: Código anteriormente usado, agora reservado.
    - `307 Temporary Redirect`: A página foi movida temporariamente para um novo URL.
 
-4. **4xx: Erro do Cliente**
+4. -- **4xx: Erro do Cliente**
    - `400 Bad Request`: O servidor não entendeu a requisição.
    - `401 Unauthorized`: A página requisitada precisa de um usuário e senha.
    - `402 Payment Required`: Este código não está em uso.
@@ -99,7 +99,7 @@ Os códigos de status HTTP são extensíveis, e aplicações HTTP não são obri
    - `416 Requested Range Not Satisfiable`: O servidor não consegue satisfazer a faixa de bytes requisitada.
    - `417 Expectation Failed`: A expectativa indicada na requisição não pode ser satisfeita pelo servidor.
 
-5. **5xx: Erro do Servidor**
+5. -- **5xx: Erro do Servidor**
    - `500 Internal Server Error`: O servidor encontrou uma condição inesperada.
    - `501 Not Implemented`: O servidor não suporta a funcionalidade requerida.
    - `502 Bad Gateway`: O servidor recebeu uma resposta inválida do servidor upstream.
