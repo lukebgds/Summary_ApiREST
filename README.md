@@ -1,7 +1,5 @@
 # Resumo - APIs REST e RESTFul
 
-[![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoApiREST/blob/main/LICENSE)
-
 As APIs são sistemas que seguem os princípios de arquitetura da REST, permitindo a interação entre sistemas web por meio de interfaces. Essas APIs oferecem uma abordagem uniforme e eficaz para acessar e manipular recursos através de métodos padronizados do protocolo HTTP, onde um recurso é uma entidade ou objeto acessível por um cliente. É estão divididas em dois grupos, APIs REST e APIs RESTful.
 
 ## Diferenças entre REST e RESTFul
