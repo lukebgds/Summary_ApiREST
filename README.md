@@ -1,6 +1,24 @@
 # Resumo - APIs REST e RESTFul
 
-As APIs são sistemas que seguem os princípios de arquitetura da REST, permitindo a interação entre sistemas web por meio de interfaces. Essas APIs oferecem uma abordagem uniforme e eficaz para acessar e manipular recursos através de métodos padronizados do protocolo HTTP, onde um recurso é uma entidade ou objeto acessível por um cliente. É estão divididas em dois grupos, APIs REST e APIs RESTful.
+
+
+As APIs (Interfaces de Programação de Aplicações) são sistemas que seguem os princípios da arquitetura REST (Representational State Transfer), permitindo a interação entre sistemas web por meio de interfaces. Elas definem como diferentes componentes de software devem interagir, permitindo uma abordagem consistente para acessar e manipular recursos usando métodos padronizados do protocolo HTTP. Um recurso em uma API é uma entidade ou objeto que pode ser acessado por um cliente.
+
+Em termos simples, uma API é como um garçom em um restaurante. Quando você vai a um restaurante, não entra na cozinha para preparar sua refeição. Em vez disso, você faz um pedido para o garçom, que por sua vez comunica esse pedido para a cozinha e traz sua refeição pronta. Da mesma forma, uma API atua como esse intermediário, permitindo que um aplicativo solicite e acesse serviços ou funcionalidades de outro sistema ou aplicativo, sem precisar entender como exatamente essas funcionalidades são implementadas.
+
+Exemplos de APIs são abundantes na tecnologia atual:
+
+- Google Maps API: Permite que aplicativos acessem e usem funcionalidades do Google Maps, como exibir mapas, obter rotas e calcular distâncias.
+
+- Twitter API: Permite que desenvolvedores acessem e interajam com os recursos do Twitter, como postar tweets, recuperar dados de usuários e buscar por tweets específicos.
+
+- APIs de pagamento, como PayPal ou Stripe: Permitem que aplicativos processem transações financeiras de forma segura.
+
+- APIs de redes sociais, como Facebook Graph API: Permitem acesso a dados de perfis de usuários, publicações, amigos, entre outros recursos da plataforma.
+
+Esses exemplos demonstram como as APIs facilitam a interação entre diferentes sistemas, permitindo que aplicativos usem recursos e funcionalidades de outros serviços sem precisar conhecer detalhes internos de implementação.
+
+As APIs estão divididas em dois grupos, ``APIs REST e APIs RESTful``.
 
 ## Diferenças entre REST e RESTFul
 
