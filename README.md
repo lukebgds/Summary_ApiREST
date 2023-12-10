@@ -1,6 +1,6 @@
 # Resumo - APIs REST e RESTFul
 
-As APIs (Interfaces de Programação de Aplicações) são sistemas que seguem os princípios da arquitetura REST (Representational State Transfer), permitindo a interação entre sistemas web por meio de interfaces. Elas definem como diferentes componentes de software devem interagir, o que permite uma abordagem consistente para acessar e manipular recursos usando métodos padronizados do protocolo HTTP. Um recurso em uma API é uma entidade ou objeto que pode ser acessado por um cliente.
+As ***APIs*** (Interfaces de Programação de Aplicações) são sistemas que seguem os princípios da arquitetura ***REST*** (Representational State Transfer), permitindo a interação entre sistemas web por meio de interfaces. Elas definem como diferentes componentes de software devem interagir, o que permite uma abordagem consistente para acessar e manipular recursos usando métodos padronizados do protocolo HTTP. Um recurso em uma API é uma entidade ou objeto que pode ser acessado por um cliente.
 
 Em termos simples, uma API é como um garçom em um restaurante. Quando você vai a um restaurante, não entra na cozinha para preparar sua refeição. Em vez disso, você faz um pedido para o garçom, que por sua vez comunica esse pedido para a cozinha e traz sua refeição pronta. Da mesma forma, uma API atua como esse intermediário, permitindo que um aplicativo solicite e acesse serviços ou funcionalidades de outro sistema ou aplicativo, sem precisar entender como exatamente essas funcionalidades são implementadas.
 
@@ -25,7 +25,7 @@ Para obter informações mais detalhadas sobre o funcionamento específico de um
 
 ## Diferenças entre REST e RESTFul
 
-REST refere-se aos princípios arquiteturais que norteiam a criação de APIs, uma API RESTful implementa de forma concreta essas diretrizes, assegurando a conformidade completa, já uma API REST pode ou não seguir rigorosamente a todos os princípios REST. Ambas as APIs, REST e RESTful, possibilitam a criação, leitura, atualização e exclusão desses recursos de maneira consistente e previsível.
+***REST*** refere-se aos princípios arquiteturais que norteiam a criação de APIs, uma ``API RESTful`` implementa de forma concreta essas diretrizes, assegurando a conformidade completa, já uma ``API REST`` pode ou não seguir rigorosamente a todos os princípios REST. Ambas as APIs, REST e RESTful, possibilitam a criação, leitura, atualização e exclusão desses recursos de maneira consistente e previsível.
 
 ### Princípios REST Fundamentais:
 
