@@ -18,7 +18,7 @@ Esses exemplos demonstram como as APIs facilitam a interação entre diferentes 
 
 As APIs estão divididas em dois grupos, ``APIs REST e APIs RESTful``.
 
-### Obs:
+### Observação importante:
 
 Para obter informações mais detalhadas sobre o funcionamento específico de uma API ou para explorar suas funcionalidades em maior profundidade, é recomendado consultar a documentação oficial fornecida pelo desenvolvedor da API. A documentação oficial geralmente oferece explicações detalhadas, exemplos de uso e guias para aproveitar ao máximo os recursos disponíveis.
 
